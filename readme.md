@@ -11,9 +11,13 @@
 ## Run Project
 
 - In the project directory run: 
+
 <code>git clone https://github.com/Laradock/laradock.git</code>
+
 <code>cd laradock</code>
+
 <code>cp ..\.env.laradock .env</code>
+
 <code>docker-compose up -d nginx mysql phpmyadmin</code>
 
 Runs the app in the development mode.
