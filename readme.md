@@ -7,6 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+
+## Run Project
+
+- In the project directory inside in the directory laradock run <code>"docker-compose up -d nginx mysql phpmyadmin"</code>]
+
+Runs the app in the development mode.
+Open http://localhost:8888 to view it in the browser.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
